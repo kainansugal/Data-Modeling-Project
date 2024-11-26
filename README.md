@@ -17,15 +17,15 @@ Data visualizations in Tableau to analyze sales, profits, and trends.
   * Dimension Tables: Include dimensions for products, locations, and times.
    ![Screenshot (3)](https://github.com/user-attachments/assets/7cc273f8-0081-4c0c-bfd9-6c086af2469d)
 * ##  Map Chart
-  a map chart to visualize sales across different states in the USA.
+  A map chart to visualize sales across different states in the USA.
   * Rollovers should display the state name and sales figures.
   ![Screenshot (4)](https://github.com/user-attachments/assets/06397d0f-261a-42a9-891e-e1c27dc328ae)
 * ##  Bubble Chart
-  a bubble chart to analyze profits in the USA.
+  A bubble chart to analyze profits in the USA.
   * Rollovers should display state name, quantity sold, profits, and shipping costs.
   ![Screenshot (5)](https://github.com/user-attachments/assets/31aecbaa-0c8c-4c7f-a896-27ac56c1dbad)
 * ## Line Chart
-  a line chart to show sales trends  for states .
+  A line chart to show sales trends  for states .
   ![Screenshot (6)](https://github.com/user-attachments/assets/7cceff6c-92ba-47a1-9db9-9b5ffab06dbd)
  ## Interactive Dashboard
  Combinantion of all charts (Map, Bubble, and Line charts) into an interactive Tableau dashboard.
