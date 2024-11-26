@@ -9,8 +9,7 @@ Deployment of the database schema in MySQL using the Forward Engineer method.
 Data visualizations in Tableau to analyze sales, profits, and trends.
 * ## ER Diagram
   Design of a normalized physical ER diagram for Global Super Store using MySQL Workbench.
-  
-  which includes entities and attributes based on the company’s dataset.
+  * includes entities and attributes based on the company’s dataset.
   ![Screenshot (2)](https://github.com/user-attachments/assets/46a228a9-27bf-41e9-bbb4-b3b9dfc53387)
 * ## Star Schema Design
   Design of a dimensional Star Schema for sales analysis.
