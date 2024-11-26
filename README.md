@@ -12,5 +12,6 @@ Data visualizations in Tableau to analyze sales, profits, and trends.
    Ensure all tables conform to the three fundamental normal forms (3NF).
   Include relevant entities and attributes based on the company’s dataset.
   ![Screenshot (2)](https://github.com/user-attachments/assets/46a228a9-27bf-41e9-bbb4-b3b9dfc53387)
-* ## Step 2
+* ## Step 2: Star Schema Design
+  
   
